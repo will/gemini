@@ -1,0 +1,9 @@
+name: gemini
+version: 0.1.0
+
+authors:
+  - Will Leinweber <will@bitfission.com>
+
+crystal: 1.0.0
+
+license: MIT
